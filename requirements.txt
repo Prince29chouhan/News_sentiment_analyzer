@@ -1,0 +1,14 @@
+requests
+nltk
+beautifulsoup4
+gtts
+deep-translator
+streamlit
+fastapi
+pydantic
+uvicorn
+sumy
+transformers
+torch
+scipy
+numpy
